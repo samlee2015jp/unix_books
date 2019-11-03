@@ -1,0 +1,29 @@
+line 1
+line 2
+total 152
+drwxr-xr-x  26 Sam  staff  832 11  4 00:51 .
+drwxr-xr-x  18 Sam  staff  576 10 31 22:47 ..
+-rwxr-xr-x   1 Sam  staff  105 11  3 23:44 breakloop1.sh
+-rwxr-xr-x   1 Sam  staff  159 11  3 23:51 breakloop2.sh
+-rwxr-xr-x   1 Sam  staff  197 11  3 18:43 case.sh
+-rwxr-xr-x   1 Sam  staff  303 11  3 18:50 case1.sh
+-rw-r--r--   1 Sam  staff    0 10 31 22:47 ch1.doc
+-rw-r--r--   1 Sam  staff    0 10 31 22:48 ch2.doc
+-rw-r--r--   1 Sam  staff   32 10 31 23:35 ch3.doc
+-rwxr-xr-x   1 Sam  staff  178 11  3 23:55 continueloop1.sh
+-rwxr-xr-x   1 Sam  staff  881 11  3 18:27 file.sh
+-rwxr-xr-x   1 Sam  staff   56 11  3 19:25 for1.sh
+-rwxr-xr-x   1 Sam  staff  135 11  3 19:14 loop1.sh
+-rwxr-xr-x   1 Sam  staff   61 11  3 19:22 loop2.sh
+-rwxr-xr-x   1 Sam  staff   32 11  4 00:36 metacharacter1.sh
+-rw-r--r--   1 Sam  staff    0 11  4 00:17 myfile.DATE+%y-%m-%d.ext
+-rw-r--r--   1 Sam  staff    0 11  4 00:16 myfile.date +%y-%m-%d.ext
+-rw-r--r--   1 Sam  staff    0 11  4 00:16 myfile.ext
+-rw-r--r--   1 Sam  staff   61 10 31 23:36 myfile.md
+-rwxr-xr-x   1 Sam  staff  130 11  3 23:34 nestedloop1.sh
+-rwxr-xr-x   1 Sam  staff  269 11  3 23:19 select1.sh
+-rwxr-xr-x   1 Sam  staff  135 11  4 00:31 substitution1.sh
+-rw-r--r--   1 Sam  staff   19 10 31 23:29 t.md
+-rwxr-xr-x   1 Sam  staff  157 11  3 18:12 test.sh
+-rwxr-xr-x   1 Sam  staff   66 11  3 23:13 until1.sh
+-rw-r--r--   1 Sam  staff   14 11  4 00:53 users
