@@ -2,7 +2,7 @@
 
 #define your function here
 Hello(){
-	echo "hello, world"
+	echo "hello, world $1 $2"
 }
 #Invoke your function
-Hello
+Hello Sam Lee
