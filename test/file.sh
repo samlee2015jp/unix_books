@@ -51,3 +51,10 @@ then
 else
 	echo "file does not exist"
 fi
+#file owner
+if [ -o $file ]
+then
+	echo "user owns the file"
+else
+	echo "user does not own the file"
+fi
