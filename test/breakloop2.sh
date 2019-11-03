@@ -6,7 +6,7 @@ do
 	do
 		if [ $var1 -eq 2 -a $var2 -eq 5 ]
 		then
-			break 2
+			break 3
 		else
 			printf "$var1 $var2\n"
 		fi
