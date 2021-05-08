@@ -1,3 +1,0 @@
-this is a file for test command wc
-, you can test other files.
-thank you.

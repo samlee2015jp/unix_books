@@ -1,2 +1,0 @@
-  PID TTY           TIME CMD
-34990 ttys000    0:00.08 -bash

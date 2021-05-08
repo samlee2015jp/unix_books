@@ -1,5 +1,0 @@
-this is a sed test
-if you want to know anything about daemon
-you should read the book named the art of unix
-or just google it.
-
